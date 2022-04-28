@@ -1,0 +1,13 @@
+/* header */
+header{
+    padding: 20px 0px;
+    text-align: center;
+    background:  linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);;
+}
+
+header h1{
+    text-transform: uppercase;
+    color: black;
+    font-family: Copperplate, Papyrus, fantasy;
+
+}
